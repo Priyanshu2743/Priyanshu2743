@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Priyanshu</h1>
+<h3 align="center">Tech enthusiast exploring chaos for opportunities, driven to learn and expand knowledge across various technologies. Let's navigate the chaos together! 🚀</h3>
+
+- 👀 I’m interested in Web Development
+- 💞️ I’m looking to collaborate on Open Source
+- 📫 How to reach me pmktl1234a@gmail.com
+- 💬 Ask me about Python, MERN Stack
+- 🌱 I’m currently learning **Python, Django**
+- 🔭 I’m currently working on **Resume-Architect**
+- ⚡ Fun fact I love to watch horror movies and anime
 
 <!--
 **Priyanshu2743/Priyanshu2743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">Tech enthusiast exploring chaos for opportunities, driven to learn and expand knowledge across various technologies. Let's navigate the chaos together! 🚀</h3>
-
-- 🔭 I’m currently working on **Resume-Architect**
-
-- 🌱 I’m currently learning **Python, Django**
-
-- 📫 How to reach me **pmktl1234a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
