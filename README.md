@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Mittal</h1>
 <h3 align="center">Tech enthusiast exploring chaos for opportunities, driven to learn and expand knowledge across various technologies. Let's navigate the chaos together! 🚀</h3>
 
 - 👀 I’m interested in Web Development
