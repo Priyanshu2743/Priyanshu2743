@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Mittal</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&center=true&random=false&width=1000&lines=Welcome+to+My+Github+!!;I+am+a+Crazy+Developer.+;Let's+Begin+the+Journey+to+my+World+!!)](https://git.io/typing-svg)
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
+</p>
+
 <h3 align="center">Tech enthusiast exploring chaos for opportunities, driven to learn and expand knowledge across various technologies. Let's navigate the chaos together! 🚀</h3>
+
+## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=priyanshu2743&label=Profile%20Views&icon=5&pretty=true"/> </a>
 
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Open Source
